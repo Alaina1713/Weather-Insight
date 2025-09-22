@@ -1,10 +1,10 @@
-Weather-Dashboard/
- ├── app.py
- ├── weather_api.py       # Separate API module
+WeatherInsight/
+ ├── app.py                  # Main Flask app
+ ├── weather_api.py          # Separate API module
  ├── templates/
- │    └── index.html
+ │    └── index.html         # HTML template
  ├── static/
- │    ├── style.css
- │    └── script.js       # Optional JS animations
- ├── README.md
- └── requirements.txt
+ │    ├── style.css          # Modern CSS for UI
+ │    └── script.js          # Optional JS animations
+ ├── requirements.txt
+ └── README.md
